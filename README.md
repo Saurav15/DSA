@@ -1,7 +1,12 @@
 # DSA
 
-##UNRATED CODERS:
+These questions are from https://www.codechef.com/selflearning/.
+
+
+
+>### 1. &nbsp; UNRATED CODERS:
 main
+```
 	NumberMirror();
 	EnormusInputTest();
 	Remainder();
@@ -12,10 +17,11 @@ main
 	ATM();
 	firstAndLastDigit();
 	luckyFour();
+```
 
-
-##BASIC PROGRAMMING CONCEPTS:
+>###  2. &nbsp; BASIC PROGRAMMING CONCEPTS:
 main-1
+```
 	richieRich();
 	twoDishes();
 	vaccineDates();
@@ -24,14 +30,16 @@ main-1
 	smallestPossibleWholeNumber();
 	twoDishes2();
 	distinctPairSum();
+```
 
 
-
-##ARRAY :
+>### 3. &nbsp; ARRAY :
 main-2
-	int chiefInVaccinQueue();
+```
+	chiefInVaccinQueue();
 	IpcCertificates();
 	makeThemEqual();
 	icpcBaloon();
 	gasolineIntroduction();
 	hardCash();
+```
