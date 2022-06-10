@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Unrated Coders">
+      <UniqueIdentifier>{831df942-b1dd-4051-b577-6a290bb39eee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Basic Programming Concepts">
+      <UniqueIdentifier>{72ccdc98-36c3-4d3a-8b8b-8e4e988d7ee8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Array">
+      <UniqueIdentifier>{a0968a65-c568-4fd5-b9ad-d91eb41f3d9b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Number_Mirror(START01).cpp">
+      <Filter>Source Files\Unrated Coders</Filter>
+    </ClCompile>
+    <ClCompile Include="Enormous Input Test (INTEST).cpp">
+      <Filter>Source Files\Unrated Coders</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files\Unrated Coders</Filter>
+    </ClCompile>
+    <ClCompile Include="Find_Reminder(FLOW002).cpp">
+      <Filter>Source Files\Unrated Coders</Filter>
+    </ClCompile>
+    <ClCompile Include="Sum_of_Digits(FLOW006).cpp">
+      <Filter>Source Files\Unrated Coders</Filter>
+    </ClCompile>
+    <ClCompile Include="Reverse_the_Number(FLOW007).cpp">
+      <Filter>Source Files\Unrated Coders</Filter>
+    </ClCompile>
+    <ClCompile Include="Add_Two_Numbers(FLOW001).cpp">
+      <Filter>Source Files\Unrated Coders</Filter>
+    </ClCompile>
+    <ClCompile Include="Chef And Operators(CHOPRT).cpp">
+      <Filter>Source Files\Unrated Coders</Filter>
+    </ClCompile>
+    <ClCompile Include="template.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ATM(HS08TEST).cpp">
+      <Filter>Source Files\Unrated Coders</Filter>
+    </ClCompile>
+    <ClCompile Include="First_and_Last_Digit(FLOW004).cpp">
+      <Filter>Source Files\Unrated Coders</Filter>
+    </ClCompile>
+    <ClCompile Include="Lucky_four(LUCKFOUR).cpp">
+      <Filter>Source Files\Unrated Coders</Filter>
+    </ClCompile>
+    <ClCompile Include="main-1.cpp">
+      <Filter>Source Files\Basic Programming Concepts</Filter>
+    </ClCompile>
+    <ClCompile Include="Richie_Rich(CHFRICH).cpp">
+      <Filter>Source Files\Basic Programming Concepts</Filter>
+    </ClCompile>
+    <ClCompile Include="two_dishes(MAX_DIFF).cpp">
+      <Filter>Source Files\Basic Programming Concepts</Filter>
+    </ClCompile>
+    <ClCompile Include="Vaccine_Dates(VDATES).cpp">
+      <Filter>Source Files\Basic Programming Concepts</Filter>
+    </ClCompile>
+    <ClCompile Include="Motivation(IMDB).cpp">
+      <Filter>Source Files\Basic Programming Concepts</Filter>
+    </ClCompile>
+    <ClCompile Include="Turn_It(NFS).cpp">
+      <Filter>Source Files\Basic Programming Concepts</Filter>
+    </ClCompile>
+    <ClCompile Include="Smallest_Possible_Whole_Number %28SMOL%29.cpp">
+      <Filter>Source Files\Basic Programming Concepts</Filter>
+    </ClCompile>
+    <ClCompile Include="two_dishes%28TWODISH%29.cpp">
+      <Filter>Source Files\Basic Programming Concepts</Filter>
+    </ClCompile>
+    <ClCompile Include="Distinct_Pair_Sums(MANYSUMS).cpp">
+      <Filter>Source Files\Basic Programming Concepts</Filter>
+    </ClCompile>
+    <ClCompile Include="Chef_in_Vaccination_Queue (VACCINQ).cpp">
+      <Filter>Source Files\Array</Filter>
+    </ClCompile>
+    <ClCompile Include="main2.cpp">
+      <Filter>Source Files\Array</Filter>
+    </ClCompile>
+    <ClCompile Include="Chef_and_IPC_Certificates(IPCCERT).cpp">
+      <Filter>Source Files\Array</Filter>
+    </ClCompile>
+    <ClCompile Include="Make_them_equal(MAKEEQUAL).cpp">
+      <Filter>Source Files\Array</Filter>
+    </ClCompile>
+    <ClCompile Include="ICPC_Balloons(BALLOON).cpp">
+      <Filter>Source Files\Array</Filter>
+    </ClCompile>
+    <ClCompile Include="Gasoline_Introduction(BEGGASOL).cpp">
+      <Filter>Source Files\Array</Filter>
+    </ClCompile>
+    <ClCompile Include="Hard_Cash(CASH).cpp">
+      <Filter>Source Files\Array</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
